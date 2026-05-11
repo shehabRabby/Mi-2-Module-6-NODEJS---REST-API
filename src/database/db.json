@@ -16,5 +16,11 @@
     "name": "Sony WH-1000XM5",
     "price": 399,
     "description": "Industry-leading wireless noise cancelling headphones with high-quality sound and long battery life."
+  },
+  {
+    "id": 1778483807449,
+    "name": "iPhone 15 Pro Max",
+    "price": 19,
+    "description": "Apple flagship smartphone with A17 Pro chip, titanium body, and advanced camera system."
   }
 ]
